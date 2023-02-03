@@ -5,7 +5,7 @@
   "description": "Upload your Hass.io backups to Dropbox",
   "url": "https://github.com/bolek117/hassio-dropbox-sync",
   "arch": [
-    "amd64",
+    "amd64"
   ],
   "stdin": true,
   "hassio_api": true,
