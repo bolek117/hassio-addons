@@ -1,6 +1,6 @@
 {
   "name": "Dropbox Sync (bolek117 version)",
-  "version": "0.0.1",
+  "version": "latest",
   "slug": "dropbox-sync-bolek117",
   "description": "Upload your Hass.io backups to Dropbox",
   "url": "https://github.com/bolek117/hassio-dropbox-sync",
